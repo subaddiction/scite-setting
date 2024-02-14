@@ -27,9 +27,11 @@ fold.margin.colour=#505050
 fold.margin.highlight.colour=#101010
 whitespace.fore=#508050
 selection.back=#FFFFFF
+selection.fore=#000000
+selection.layer=1
 caret.fore=#FFFFFF
 # Additional caret and selection settings
-selection.alpha=50
+# selection.alpha=50
 caret.line.back=#E8E8FF
 caret.line.back.alpha=90
 
